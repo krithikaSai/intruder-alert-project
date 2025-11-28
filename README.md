@@ -20,7 +20,7 @@ Everything is powered directly from the ESP32’s 3.3V line, and all components 
 
 ## Circuit Diagram
 
-![Diagram](images/image1.png)
+<img src="images/image1.png" width="400"/>
 
 ---
 
@@ -39,7 +39,8 @@ Everything is powered directly from the ESP32’s 3.3V line, and all components 
 | LED | Long leg (+) via resistor | D18 |
 | LED | Short leg (–) | GND |
 
-![Diagram](images/image2.png)
+<img src="images/image2.png" width="400"/>
+
 
 ---
 
