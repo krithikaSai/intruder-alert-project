@@ -24,6 +24,12 @@ Everything is powered directly from the ESP32’s 3.3V line, and all components 
 
 ---
 
+## Video with step-by-step procedure
+
+https://youtu.be/Ukm1KR4cq5A
+
+---
+
 ## Wiring Details
 
 ### **ESP32 to Sensor & Peripherals**
